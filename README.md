@@ -2,6 +2,7 @@
 
 This is netzian
 
-and second committ
-and third committ
+and second commit
+and third commit
 
+and forth commit
